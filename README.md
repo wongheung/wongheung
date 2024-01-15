@@ -1,4 +1,4 @@
-### Hi there, I am working on data analysis. 👋
+### Hi there, I am working on data analysis. I like to use R and python👋
 
 <!--
 **wongheung/wongheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
